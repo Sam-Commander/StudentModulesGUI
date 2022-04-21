@@ -1,0 +1,8 @@
+fas956	1	OOP	Maths	AI
+xaz8345	2	DS	Adv Programming	AI
+lbg914	3	Project	Adv Programming	DS
+hij934	2	Maths	Adv Programming	Project
+pew1234	2	DS	Adv Programming	Project
+sxc1368	1	Maths	Data Algo	DS
+ert345	3	Data Algo	Maths	AI
+edw237	2	DS	OOP	Maths
